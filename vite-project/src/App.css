@@ -1,0 +1,129 @@
+.gbfvs {
+  height: 250px;
+}
+
+.gbfv {
+  height: 400px;
+}
+
+.navbar {
+  background-color: black;
+  font-style: italic;
+}
+
+.cardclass {
+  border: none;
+  border-radius: 0px;
+  text-align: center;
+}
+
+.SAS {
+  padding: 100px;
+}
+
+.inputsec {
+  border-radius: 5px;
+  width: 250px;
+  padding: 5px;
+  text-align: center;
+  font-style: italic;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+
+.butn {
+  border-radius: 5px;
+  text-align: center;
+  font-style: italic;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  padding: 5px;
+  width: 100px;
+  background-color: rgb(142, 142, 244);
+  color: white;
+  font-weight: bold;
+}
+
+.carddiv {
+  padding-top: 100px;
+  padding-left: 10px;
+  height: 300px;
+}
+
+.firstdiv {
+  border-radius: 0px;
+  font-style: italic;
+  height: 350px;
+}
+
+.seconddiv {
+  border-radius: 0px;
+  font-style: italic;
+  height: 350px;
+}
+
+.thirddiv {
+  border-radius: 0px;
+  font-style: italic;
+  height: 400px;
+}
+
+.pictures {
+  height: 400px;
+  width: 900px;
+}
+
+.asasas {
+  display: flex;
+  justify-content: center;
+  background-color: aliceblue;
+  align-items: center;
+  padding: 200px;
+  height: 200px;
+}
+
+.reviewimages {
+  border-radius: 300px;
+  text-align: center;
+}
+
+.reviewheads {
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+.reviewhead {
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+.reviewheadss {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+
+.aboutset {
+  padding: 10px;
+}
+
+.icons {
+  padding: 20px;
+  color: blue;
+  font-size: 20px;
+}
+
+.aboutaset {
+  margin-left: 10px;
+  font-style: italic;
+}
+
+.asafyusfa {
+  padding: 50px;
+  text-align: center;
+  background-color: hsl(208, 79%, 83%);
+}
